@@ -18,7 +18,6 @@ jobs:
           fetch-depth: 0
 
       - name: Generate GitHub Contribution Snake (light + dark)
-        # using master ensures latest; svg-only or full both work; master is more stable
         uses: Platane/snk@master
         with:
           github_user_name: swethaj06
@@ -29,10 +28,10 @@ jobs:
       - name: Show dist files (debug)
         run: ls -la dist || echo "dist folder missing"
 
-      - name: Commit generated files (if any)
-        uses: EndBug/add-and-commit@v9
-        with:
-          author_name: github-actions
-          author_email: github-actions@github.com
-          message: "chore: update contribution snake"
-          add: "dist/*.svg"
+      - name: Commit and push generated snake.svg to main
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add dist
+          git commit -m "Generated Snake animation" || echo "No changes to commit"
+          git push origin main
