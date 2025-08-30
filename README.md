@@ -71,17 +71,6 @@ To secure a challenging position in the fields of Full-Stack Development and Mac
     <td width="50%">
       <img src="https://streak-stats.demolab.com/?user=swethaj06&theme=tokyonight&hide_border=true" width="95%" />
     </td>
-    <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=swethaj06&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" width="95%" />
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=swethaj06&layout=compact&theme=tokyonight&hide_border=true" width="95%" />
-    </td>
-    <td width="50%">
-      <!-- Optional future stats -->
-    </td>
   </tr>
 </table>
 
