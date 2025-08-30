@@ -96,16 +96,7 @@ To secure a challenging position in the fields of Full-Stack Development and Mac
 
 ---
 
-## 🐍 GitHub Contribution Snake  
 
-<!-- Light (visible on light theme) -->
-![GitHub Snake Light](https://raw.githubusercontent.com/swethaj06/swethaj06/main/dist/github-contribution-grid-snake.svg#gh-light-mode-only)
-
-<!-- Dark (visible on dark theme) -->
-![GitHub Snake Dark](https://raw.githubusercontent.com/swethaj06/swethaj06/main/dist/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
-
-
----
 
 📌 **GitHub:** [github.com/swethaj06](https://github.com/swethaj06)  
 📌 **LinkedIn:** [linkedin.com/in/swetha-j-93ba41321](https://www.linkedin.com/in/swetha-j-93ba41321/)  
