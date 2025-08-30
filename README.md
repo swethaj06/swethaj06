@@ -76,17 +76,6 @@ To secure a challenging position in the fields of Full-Stack Development and Mac
 
 ---
 
-## 💡 Fun Facts  
-
-- 💻 Started coding journey with **HTML & CSS** and fell in love with **building projects**  
-- 🚀 Dream to become a **successful AI Engineer**  
-- ☕ Coffee + Code = Perfect Day  
-- 📚 Always exploring **new technologies**  
-
----
-
-
-
 📌 **GitHub:** [github.com/swethaj06](https://github.com/swethaj06)  
 📌 **LinkedIn:** [linkedin.com/in/swetha-j-93ba41321](https://www.linkedin.com/in/swetha-j-93ba41321/)  
 📧 **Email:** swethaj723@gmail.com  
