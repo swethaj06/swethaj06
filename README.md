@@ -74,4 +74,3 @@ To secure a challenging position in the fields of Full-Stack Development and Mac
 📌 **GitHub:** https://github.com/swethaj06  
 📌 **LinkedIn:** https://www.linkedin.com/in/swetha-j-93ba41321/  
 📧 **Email:** swethaj723@gmail.com  
-📱 **Phone:** 8072954732
