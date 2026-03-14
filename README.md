@@ -102,13 +102,6 @@ CNN-based deep learning model for **detecting plant diseases**.
 
 ---
 
-# 🏆 GitHub Achievements
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=swethaj06&theme=tokyonight&no-frame=true&margin-w=10"/>
-</p>
-
----
 
 # 🌐 Connect With Me
 
