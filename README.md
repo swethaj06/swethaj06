@@ -1,46 +1,44 @@
+<!-- HEADER BANNER -->
 <h1 align="center">Hi 👋, I'm Swetha J</h1>
-<h3 align="center">AI & ML Student | Full-Stack Developer | Tech Enthusiast</h3>
+<h3 align="center">AI & ML Student | Full Stack Developer | Tech Enthusiast</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile!;AI+%26+ML+Student;Full+Stack+Developer;React+%7C+Node+%7C+MongoDB;Machine+Learning+Explorer" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3500&pause=1000&color=FF69B4&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+Profile!;Artificial+Intelligence+%26+Machine+Learning+Student;Full+Stack+Developer;React+%7C+Node+%7C+MongoDB;Building+AI+Powered+Applications" />
 </p>
 
 ---
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=swethaj06&label=Profile%20views&color=ff69b4&style=flat" alt="profile views"/>
+<img src="https://komarev.com/ghpvc/?username=swethaj06&label=Profile%20Views&color=ff69b4&style=flat" />
 </p>
 
 ---
 
-# 🚀 About Me
+# 🌸 About Me
 
 🎓 **B.Tech – Artificial Intelligence & Machine Learning**  
 🏫 Kongu Engineering College (2023 – 2027)
 
-💡 Passionate about  
-• Full Stack Development  
-• Machine Learning  
-• AI Applications  
+💡 Passionate about building **AI-powered and full stack applications**
 
-🌱 Currently learning  
+🌱 Currently exploring  
 • React Native  
-• Cloud Technologies  
-• Advanced ML Models  
+• Cloud Computing  
+• Advanced Machine Learning
 
-🗣 Languages  
+💬 Languages  
 • Tamil  
 • English
 
-🎯 **Career Goal**
+🎯 **Career Objective**
 
-To build innovative **AI-powered and full-stack applications** that solve real-world problems while continuously improving my technical skills.
+To secure a challenging position in **Full Stack Development and Artificial Intelligence**, apply my technical knowledge, and contribute to innovative real-world projects.
 
 ---
 
 # 🛠️ Tech Stack
 
-### 💻 Programming Languages
+### 💻 Programming
 
 <p>
 <img src="https://skillicons.dev/icons?i=python,java,javascript" />
@@ -58,7 +56,7 @@ To build innovative **AI-powered and full-stack applications** that solve real-w
 <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
 </p>
 
-### ⚙️ Tools & Platforms
+### ⚙️ Tools
 
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,powerbi" />
@@ -66,22 +64,22 @@ To build innovative **AI-powered and full-stack applications** that solve real-w
 
 ---
 
-# 📂 Featured Projects
+# 🚀 Featured Projects
 
-### 🛒 E-Commerce Website (Optics Store)
-React + Vite based modern ecommerce platform.
+### 🛒 E-Commerce Website for Optics Store
+Modern ecommerce platform built with **React + Vite**.
 
-### 🌐 KEC-TBI Website
-Platform for managing college startup incubation programs.
+### 🌐 KEC-TBI Startup Platform
+Website to manage **college startups and incubation programs**.
 
 ### 📱 Cashman
-Mobile application for **personal finance tracking and budgeting**.
+Mobile application for **personal finance management**.
 
 ### 🔐 Cyber Attack Prediction
-Machine Learning model for **predicting cyber threats**.
+Machine Learning model that **detects and predicts cyber threats**.
 
 ### 🌿 Plant Disease Prediction
-CNN-based deep learning model for **detecting plant diseases**.
+Deep learning **CNN model for plant disease detection**.
 
 ---
 
@@ -96,9 +94,9 @@ CNN-based deep learning model for **detecting plant diseases**.
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=swethaj06&show_icons=true&theme=tokyonight&hide_border=true" height="170">
+<img src="https://github-readme-stats.vercel.app/api?username=swethaj06&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=swethaj06&layout=compact&theme=tokyonight&hide_border=true" height="170">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=swethaj06&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
 
 </p>
 
@@ -115,7 +113,23 @@ CNN-based deep learning model for **detecting plant diseases**.
 # 🏆 GitHub Achievements
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=swethaj06&theme=tokyonight&no-frame=true&margin-w=10"/>
+<img src="https://github-profile-trophy.vercel.app/?username=swethaj06&theme=tokyonight&no-frame=true&margin-w=15"/>
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=swethaj06&theme=tokyo-night&hide_border=true"/>
+</p>
+
+---
+
+# 🐍 Contribution Snake Animation
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/swethaj06/swethaj06/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
@@ -136,10 +150,10 @@ CNN-based deep learning model for **detecting plant diseases**.
 
 ---
 
-# 💬 Quote I Believe In
+# 💡 Developer Quote
 
-✨ *“Technology is best when it brings people together and solves real problems.”*
+✨ *“Great software is built when creativity meets technology.”*
 
 ---
 
-⭐ From **Swetha J**
+<h3 align="center">⭐ From Swetha J</h3>
