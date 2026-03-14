@@ -24,7 +24,7 @@ To secure a challenging position in the fields of Full-Stack Development and Mac
 
 ## 🏆 GitHub Trophy  
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=swethaj06&theme=onedark&no-frame=true&title=MultiLanguage,Stars,Commits,Repositories,PullRequest,Followers&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=swethaj06&theme=tokyonight&no-frame=true&margin-w=10&margin-h=10&column=6)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
@@ -47,13 +47,11 @@ To secure a challenging position in the fields of Full-Stack Development and Mac
 
 ## 📂 Projects  
 
-- 🛒 **E-commerce Website for Optics Store** – Built with React + Vite, allowing users to order optics online.  
-- 🌐 **KEC-TBI Website** – A dynamic website for managing college startups, events, and faculty data.  
-- 📱 **Cashman** – Mobile app for personal finance management and investment guidance.  
-- 🔐 **Cyber Attack Prediction** – ML model to detect and classify cyber threats.  
-- 🌿 **Plant Disease Prediction** – CNN-based image classifier for early detection of plant diseases.  
-
-> Explore all projects on my [GitHub Repositories](https://github.com/swethaj06?tab=repositories)
+- 🛒 **E-commerce Website for Optics Store** – Built with React + Vite  
+- 🌐 **KEC-TBI Website** – Platform for managing college startups & events  
+- 📱 **Cashman** – Mobile app for personal finance management  
+- 🔐 **Cyber Attack Prediction** – ML model to detect cyber threats  
+- 🌿 **Plant Disease Prediction** – CNN model for plant disease detection  
 
 ---
 
@@ -76,7 +74,7 @@ To secure a challenging position in the fields of Full-Stack Development and Mac
 
 ---
 
-📌 **GitHub:** [github.com/swethaj06](https://github.com/swethaj06)  
-📌 **LinkedIn:** [linkedin.com/in/swetha-j-93ba41321](https://www.linkedin.com/in/swetha-j-93ba41321/)  
+📌 **GitHub:** https://github.com/swethaj06  
+📌 **LinkedIn:** https://www.linkedin.com/in/swetha-j-93ba41321/  
 📧 **Email:** swethaj723@gmail.com  
 📱 **Phone:** 8072954732
