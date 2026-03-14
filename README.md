@@ -24,13 +24,6 @@ To secure a challenging position in the fields of Full-Stack Development and Mac
 
 ---
 
-## 🏆 GitHub Trophy  
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=swethaj06&theme=onedark&no-frame=true&row=1&column=6" />
-</p>
-
----
 
 ## 🛠️ Tech Stack  
 
