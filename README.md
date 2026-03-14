@@ -1,76 +1,145 @@
-# 👋 Hi, I'm Swetha J  
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub+Profile!;AI+%26+ML+Student+💻;Full-Stack+Developer+🚀;Loves+Web+Development+%26+ML+Projects)](https://git.io/typing-svg)
-
----
+<h1 align="center">Hi 👋, I'm Swetha J</h1>
+<h3 align="center">AI & ML Student | Full-Stack Developer | Tech Enthusiast</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=swethaj06&color=ff69b4" alt="Profile Views" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile!;AI+%26+ML+Student;Full+Stack+Developer;React+%7C+Node+%7C+MongoDB;Machine+Learning+Explorer" />
 </p>
 
 ---
 
-## 🚀 About Me  
-
-🎓 **B.Tech in Artificial Intelligence & Machine Learning** at **Kongu Engineering College, Perundurai** (2023–2027)  
-💼 Passionate about **Full-Stack Development & Machine Learning**  
-🌱 Currently exploring **React Native, AI Applications, and Cloud Technologies**  
-🗣 Languages: **Tamil** and **English**  
-
-**Career Objective:**  
-To secure a challenging position in the fields of Full-Stack Development and Machine Learning, apply my technical skills effectively, and contribute to innovative projects while gaining hands-on experience and career growth.
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=swethaj06&label=Profile%20views&color=ff69b4&style=flat" alt="profile views"/>
+</p>
 
 ---
 
----
+# 🚀 About Me
 
+🎓 **B.Tech – Artificial Intelligence & Machine Learning**  
+🏫 Kongu Engineering College (2023 – 2027)
 
-## 🛠️ Tech Stack  
+💡 Passionate about  
+• Full Stack Development  
+• Machine Learning  
+• AI Applications  
 
-![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5)  
-![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)  
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)  
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)  
-![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)  
-![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)  
-![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)  
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)  
-![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java)  
-![Power BI](https://img.shields.io/badge/-Power%20BI-black?style=flat-square&logo=powerbi)  
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat-square&logo=bootstrap)  
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)  
+🌱 Currently learning  
+• React Native  
+• Cloud Technologies  
+• Advanced ML Models  
 
----
+🗣 Languages  
+• Tamil  
+• English
 
-## 📂 Projects  
+🎯 **Career Goal**
 
-- 🛒 **E-commerce Website for Optics Store** – Built with React + Vite  
-- 🌐 **KEC-TBI Website** – Platform for managing college startups & events  
-- 📱 **Cashman** – Mobile app for personal finance management  
-- 🔐 **Cyber Attack Prediction** – ML model to detect cyber threats  
-- 🌿 **Plant Disease Prediction** – CNN model for plant disease detection  
+To build innovative **AI-powered and full-stack applications** that solve real-world problems while continuously improving my technical skills.
 
 ---
 
-## 📜 Certifications  
+# 🛠️ Tech Stack
 
-- **MongoDB Node.js Developer Path** – KEC, 2025  
-- **Oracle Data Platform 2025 Foundation Associate** – KEC, 2025  
+### 💻 Programming Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,java,javascript" />
+</p>
+
+### 🌐 Web Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,react,nodejs,express" />
+</p>
+
+### 🗄️ Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+</p>
+
+### ⚙️ Tools & Platforms
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,powerbi" />
+</p>
 
 ---
 
-## 📈 GitHub Stats  
+# 📂 Featured Projects
 
-<table>
-  <tr>
-    <td width="50%">
-      <img src="https://streak-stats.demolab.com/?user=swethaj06&theme=tokyonight&hide_border=true" width="95%" />
-    </td>
-  </tr>
-</table>
+### 🛒 E-Commerce Website (Optics Store)
+React + Vite based modern ecommerce platform.
+
+### 🌐 KEC-TBI Website
+Platform for managing college startup incubation programs.
+
+### 📱 Cashman
+Mobile application for **personal finance tracking and budgeting**.
+
+### 🔐 Cyber Attack Prediction
+Machine Learning model for **predicting cyber threats**.
+
+### 🌿 Plant Disease Prediction
+CNN-based deep learning model for **detecting plant diseases**.
 
 ---
 
-📌 **GitHub:** https://github.com/swethaj06  
-📌 **LinkedIn:** https://www.linkedin.com/in/swetha-j-93ba41321/  
-📧 **Email:** swethaj723@gmail.com  
+# 📜 Certifications
+
+✔ MongoDB Node.js Developer Path – KEC (2025)  
+✔ Oracle Data Platform 2025 Foundation Associate – KEC (2025)
+
+---
+
+# 📊 GitHub Statistics
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=swethaj06&show_icons=true&theme=tokyonight&hide_border=true" height="170">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=swethaj06&layout=compact&theme=tokyonight&hide_border=true" height="170">
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+<img src="https://streak-stats.demolab.com/?user=swethaj06&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+# 🏆 GitHub Achievements
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=swethaj06&theme=tokyonight&no-frame=true&margin-w=10"/>
+</p>
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://github.com/swethaj06">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
+
+<a href="https://www.linkedin.com/in/swetha-j-93ba41321/">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+</p>
+
+---
+
+# 💬 Quote I Believe In
+
+✨ *“Technology is best when it brings people together and solves real problems.”*
+
+---
+
+⭐ From **Swetha J**
