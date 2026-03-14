@@ -13,24 +13,60 @@
 
 ---
 
-# 🚀 About Me
+# 👩‍💻 About Me
+
+<img align="right" alt="coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 🎓 **B.Tech – Artificial Intelligence & Machine Learning**  
-🏫 Kongu Engineering College (2023 – 2027)
+🏫 *Kongu Engineering College* (2023 – 2027)
 
-💡 Passionate about  
-• Full Stack Development  
-• Machine Learning  
-• AI Applications  
+💡 I am an **AI & ML enthusiast and Full-Stack Developer** passionate about building **innovative technology solutions** that solve real-world problems.
 
-🌱 Currently learning  
-• React Native  
-• Cloud Technologies  
-• Advanced ML Models  
+🚀 I enjoy combining **Artificial Intelligence, Data, and Web Technologies** to create intelligent applications that are both **impactful and scalable**.
 
-🗣 Languages  
-• Tamil  
-• English
+---
+
+### 🌟 What Drives Me
+
+🔹 Building **AI-powered applications**  
+🔹 Developing **modern full-stack web platforms**  
+🔹 Exploring **Machine Learning & Data Analytics**  
+🔹 Solving real-world problems using technology
+
+---
+
+### 📚 Currently Learning
+
+⚛️ React Native  
+☁️ Cloud Technologies  
+🧠 Advanced Machine Learning Models  
+📊 Data Analytics & Visualization
+
+---
+
+### 💡 Interests
+
+💻 Full Stack Development  
+🤖 Artificial Intelligence  
+📈 Data Analysis  
+🌍 Real-World Problem Solving
+
+---
+
+### 🗣 Languages I Speak
+
+🇮🇳 Tamil  
+🌎 English
+
+---
+
+### 🎯 Career Vision
+
+To become a **skilled AI & Full-Stack Engineer** who builds **intelligent, scalable, and impactful applications** that improve people's lives and contribute to technological innovation.
+
+---
+
+✨ *“Learning never exhausts the mind — it empowers innovation.”*
 
 🎯 **Career Goal**
 
